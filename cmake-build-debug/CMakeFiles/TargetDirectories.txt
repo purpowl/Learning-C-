@@ -1,0 +1,3 @@
+/Users/Amelia/Documents/Learning-C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Amelia/Documents/Learning-C-/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Amelia/Documents/Learning-C-/cmake-build-debug/CMakeFiles/Learning_C_.dir
